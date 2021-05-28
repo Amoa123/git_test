@@ -1,0 +1,1 @@
+This is Amoa's first git project!
